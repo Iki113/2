@@ -1,0 +1,11 @@
+body{
+	background-color: #000000;
+}	
+.caixa{
+	margin: 20px;
+	width: 75%;
+}
+.texto{
+	font-size: 30px;
+	color: #ffffff;
+}
